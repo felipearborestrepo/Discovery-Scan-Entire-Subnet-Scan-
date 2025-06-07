@@ -85,22 +85,6 @@ _**Completion State:**_ Subnet scan created, targets identified, scan launched, 
 
 ![11- Tagging Process](https://github.com/user-attachments/assets/fc407ac0-263f-4a30-94c5-16ec368686d9)
 
-**Add a tag (e.g., based on criticality, environment, or hostname):**
-
-1. Click on the “Add Tag” button.  
-2. Select or create a value (e.g., `aubinvmlocalwin.internal.cloudapp.net`).  
-3. Click “Add” to apply the tag.
-
-Example Tagging Flow:
-
-# Example Tagging in Tenable
-# (Done via Tenable UI - steps illustrated below)
-
-# Click the asset to view details
-# Click "Add Tag"
-# In "Select or create Value", enter the desired tag
-# Click "Add"
-
 **Purpose of Tagging in Subnet Discovery Scan
 Tagging in vulnerability management and asset discovery platforms like Tenable serves a crucial role in organizing, categorizing, and managing scanned assets. Here’s why it’s important in the Subnet Discovery Scan you just completed:**
 
