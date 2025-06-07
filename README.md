@@ -1,6 +1,6 @@
 # Subnet Discovery Scan Project in Tenable
 
-![1400924-middle](https://github.com/user-attachments/assets/fcb080c3-00ce-45d8-80d7-6b3bc31420f1)
+![OIP (2)](https://github.com/user-attachments/assets/cc9849ac-fd25-4806-aeee-864d888c796c)
 
 In this project, we demonstrate how to create a **Host Discovery Scan** in Tenable Vulnerability Management to identify active hosts within a specific subnet range of a **virtual network in Azure**.
 
