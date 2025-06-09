@@ -101,6 +101,7 @@ By tagging assets, you can generate targeted reports for specific groups. If you
 Security teams can quickly understand the context of an asset (e.g., what environment it belongs to or what service it runs) by looking at the tags. This helps during incident response, patching, and risk assessments.**
 
 **❌No Owner for Device? Rogue Asset!✅**
+
 **Isolate: Disconnect the rogue device from your network to prevent any unauthorized access.✅**
 
 **Investigate: Analyze the device to understand its purpose and security status using network scanning tools.✅**
